@@ -4,7 +4,7 @@ Official PyTorch code release for the ICLR 2025 paper:
 
 > **EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation**  
 > *Carl Qi, Dan Haramati, Tal Daniel, Aviv Tamar, and Amy Zhang*  
-> [Project Website](https://sites.google.com/view/ec-diffuser) • [arXiv](https://www.arxiv.org/abs/2412.18907) • [OpenReview](https://openreview.net/forum?id=o3pJU5QCtv)
+> [Project Website](https://sites.google.com/view/ec-diffuser) • [arXiv](https://www.arxiv.org/abs/2412.18907) • [OpenReview](https://openreview.net/forum?id=o3pJU5QCtv) • [BibTeX](https://github.com/carl-qi/EC-Diffuser?tab=readme-ov-file#citation)
 
 <p align="center">
   <img src="media/push_cube_gen.gif" height="100"> &nbsp;&nbsp;
