@@ -97,7 +97,7 @@ git clone https://huggingface.co/datasets/carlq/ecdiffuser-data
 
 ## Evaluating a Pretrained Agent
 
-You can evaluate the pretrained agents with the following commands. Replace `CUDA_VISIBLE_DEVICES=0,1` with the GPU devices you wish to use (Note IsaacGym env has to reside on GPU 0).
+You can evaluate the pretrained agents with the following commands. Replace `CUDA_VISIBLE_DEVICES=0,1` with the GPU devices you wish to use (Note IsaacGym env has to be on GPU 0).
 
 - **PushCube Agent:**
 
@@ -121,7 +121,7 @@ You can evaluate the pretrained agents with the following commands. Replace `CUD
 
 ## Training an Agent
 
-Train your own agents using the commands below. Replace `CUDA_VISIBLE_DEVICES=0,1` with the GPU devices you wish to use (Note IsaacGym env has to reside on GPU 0).
+Train your own agents using the commands below. Replace `CUDA_VISIBLE_DEVICES=0,1` with the GPU devices you wish to use (Note IsaacGym env has to be on GPU 0).
 
 - **Train a PushCube Agent (3 cubes):**
 
