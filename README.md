@@ -63,8 +63,6 @@ Follow these steps to set up the environment:
     ```
 
 4. **Setup for the FrankaKitchen environment:**
-
-    - Install [MuJoCo](https://github.com/deepmind/mujoco). (Refer to the official instructions for installation and licensing.)
     - Install D4RL by cloning the repository:
 
       ```bash
