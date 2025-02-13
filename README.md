@@ -63,6 +63,7 @@ Follow these steps to set up the environment:
     ```
 
 4. **Setup for the FrankaKitchen environment:**
+   
     Install D4RL by cloning the repository:
   
     ```bash
@@ -72,7 +73,7 @@ Follow these steps to set up the environment:
     cd ../
     ```
 
-5. **Finalize environment setup:**
+6. **Finalize environment setup:**
 
     Run the provided setup script:
 
