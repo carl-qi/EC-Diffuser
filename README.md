@@ -63,14 +63,14 @@ Follow these steps to set up the environment:
     ```
 
 4. **Setup for the FrankaKitchen environment:**
-    - Install D4RL by cloning the repository:
-
-      ```bash
-      git clone https://github.com/Farama-Foundation/d4rl.git
-      cd d4rl
-      pip install -e .
-      cd ../
-      ```
+    Install D4RL by cloning the repository:
+  
+    ```bash
+    git clone https://github.com/Farama-Foundation/d4rl.git
+    cd d4rl
+    pip install -e .
+    cd ../
+    ```
 
 5. **Finalize environment setup:**
 
