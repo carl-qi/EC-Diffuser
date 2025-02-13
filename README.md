@@ -62,7 +62,7 @@ Follow these steps to set up the environment:
     cd ../
     ```
 
-4. **(Optional) Setup for the FrankaKitchen environment:**
+4. **Setup for the FrankaKitchen environment:**
 
     - Install [MuJoCo](https://github.com/deepmind/mujoco). (Refer to the official instructions for installation and licensing.)
     - Install D4RL by cloning the repository:
@@ -166,3 +166,5 @@ If you find our work useful, please consider citing:
   https://stackoverflow.com/questions/77124879/pip-extras-require-must-be-a-dictionary-whose-values-are-strings-or-lists-of
 
 - For `AttributeError: module 'numpy' has no attribute 'float'`, run `pip install numpy==1.21.0`
+
+- For error Compiling Cython file in mujoco-py, run `pip install "cython<3"`
