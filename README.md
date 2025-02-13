@@ -167,4 +167,4 @@ If you find our work useful, please consider citing:
 
 - For `AttributeError: module 'numpy' has no attribute 'float'`, run `pip install numpy==1.21.0`
 
-- For error Compiling Cython file in mujoco-py, run `pip install "cython<3"`
+- For error Compiling Cython file in mujoco-py, run `pip install "cython<3"`: https://github.com/openai/mujoco-py/issues/773
