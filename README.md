@@ -159,3 +159,10 @@ If you find our work useful, please consider citing:
     url={https://openreview.net/forum?id=o3pJU5QCtv}
     }
 ```
+
+## Common Issues
+- For error installing stable-baselines3 / gym:
+  
+  https://stackoverflow.com/questions/77124879/pip-extras-require-must-be-a-dictionary-whose-values-are-strings-or-lists-of
+
+- For `AttributeError: module 'numpy' has no attribute 'float'`, run `pip install numpy==1.21.0`
