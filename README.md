@@ -22,6 +22,7 @@ Official PyTorch code release for the ICLR 2025 paper:
 - [Evaluating a Pretrained Agent](#evaluating-a-pretrained-agent)
 - [Training an Agent](#training-an-agent)
 - [Citation](#citation)
+- [Common Issues](#common-issues)
 
 ---
 
